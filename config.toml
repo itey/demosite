@@ -1,0 +1,11 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Dizee的世界'
+theme = "paper"
+relativeUrls = true
+
+[params]
+  disableHLJS = false                         # don't use highlight.js
+  twitter = 'YOUR_TWITTER_ID'                # twitter.com/YOUR_TWITTER_ID
+  github = 'YOUR_GITHUB_ID'                  # github.com/YOUR_GITHUB_ID
+  instagram = 'YOUR_INSTAGRAM_ID' 
